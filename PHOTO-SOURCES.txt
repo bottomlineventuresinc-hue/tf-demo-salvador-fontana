@@ -1,0 +1,13 @@
+PHOTO SOURCES — hs-041-salvador Salvador Martinez (Wave 9 2026-09-23 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — residential kitchen or bath remodel (verified Unsplash Wave7)
+services-trade.jpg — kitchen/bath remodel interior (verified)
+job041-* — kitchen B/A typical of this kind of job (verified)
+job038-* — bath B/A typical of this kind of job (verified)
+job052-* — remodel/addition typical of this kind of job (verified)
+people-* — tools/jobsite — NOT owner face
+coverage-house.jpg — residential exterior
+Rejected: stock faces as owner — not used
+Sources: Wave7 Unsplash/Pexels verified 2026-09-23 PT + prior Wave library
+Note: not phelpsconstruction.com (unrelated Inc)
