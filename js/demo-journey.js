@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Kitchen and bath remodels, additions, and general building across Fontana and the Inland Empire. Salvador walks the job first and puts the price in writing.';
+            'Kitchen and bath remodels, additions, and general building in Fontana. Salvador walks the job first and puts the price in writing.';
         }
       }
     },
